@@ -1,2 +1,1 @@
-# test-repo
-My test repository
+My Test Repository
